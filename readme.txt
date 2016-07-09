@@ -6,3 +6,4 @@ branch manage plan!!.
 
 merge branch by fast forward.
 
+bug repaired.
